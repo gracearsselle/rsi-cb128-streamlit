@@ -1,0 +1,11 @@
+{
+    "model_name": "RSI-CB128 CNN Classifier",
+    "date_created": "2026-01-31 22:03:25",
+    "img_size": 128,
+    "num_classes": 45,
+    "total_params": 5252333,
+    "test_accuracy": 0.9660087823867798,
+    "test_loss": 0.12841388583183289,
+    "epochs_trained": 20,
+    "best_val_accuracy": 0.9672330021858215
+}
